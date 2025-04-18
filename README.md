@@ -1,13 +1,15 @@
 ## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 560 Bytes Used in GitHub's Storage 
+> 📦 561 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 34 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,5 +52,5 @@ WSL                      3 hrs 31 mins       ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2025 18:48:15 UTC
+ Last Updated on 18/04/2025 13:26:37 UTC
 <!--END_SECTION:waka-->
