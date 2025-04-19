@@ -9,8 +9,6 @@
 
 > 📦 562 Bytes Used in GitHub's Storage 
  > 
-> 🏆 36 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -52,5 +50,5 @@ WSL                      3 hrs 31 mins       █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2025 15:11:12 UTC
+ Last Updated on 19/04/2025 18:44:18 UTC
 <!--END_SECTION:waka-->
