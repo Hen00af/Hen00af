@@ -22,7 +22,6 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 ## 🚀 Notable Projects
 
 - [Minishell](https://github.com/Hen00af/minishell) – Recreated a simplified bash shell in C with pipe, redirect, and built-in command support
-- MyGit (coming soon...) – A C-based Git internals project
 - [Push_swap](https://github.com/Hen00af/push_swap) – Sorting algorithm challenge using stacks
 
 ---
