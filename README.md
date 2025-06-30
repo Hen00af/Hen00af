@@ -1,7 +1,7 @@
 ## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-754.2%20thousand%20lines%20of%20code-blue)
 
@@ -9,19 +9,21 @@
 
 > 📦 3.1 kB Used in GitHub's Storage 
  > 
+> 🏆 177 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                135 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-🌆 Daytime                348 commits         ███████████░░░░░░░░░░░░░░   43.83 % 
-🌃 Evening                280 commits         █████████░░░░░░░░░░░░░░░░   35.26 % 
-🌙 Night                  31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+🌞 Morning                135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+🌆 Daytime                353 commits         ███████████░░░░░░░░░░░░░░   44.18 % 
+🌃 Evening                280 commits         █████████░░░░░░░░░░░░░░░░   35.04 % 
+🌙 Night                  31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 
 
@@ -50,5 +52,5 @@ WSL                      3 hrs 20 mins       ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2025 18:49:01 UTC
+ Last Updated on 30/06/2025 06:35:59 UTC
 <!--END_SECTION:waka-->
