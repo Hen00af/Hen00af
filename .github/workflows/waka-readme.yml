@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '30 18 * * *' # JST 3:30AM 毎日
+    - cron: '30 18 * * *'
   workflow_dispatch:
 
 jobs:
@@ -28,8 +28,5 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_LOC_CHART: "True"
           SHOW_UPDATED_DATE: "True"
-
-          SHOW_SHORT_INFO: "True"
-          SHORT_INFO: "42Tokyo / C Developer / Minishell building"
           COMMIT_BY_ME: "True"
-          LOCALE: "ja"
+          LOCALE: "en"  # ← 日本語は未対応のため英語にする
