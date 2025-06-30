@@ -2,8 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # 毎日午前3:30 JST（UTC 18:30）
-    - cron: '30 18 * * *'
+    - cron: '30 18 * * *' # JST 3:30AM 毎日
   workflow_dispatch:
 
 jobs:
@@ -16,6 +15,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # 表示オプション（強化版）
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_DAYS_OF_WEEK: "False"
@@ -25,6 +26,12 @@ jobs:
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
           SHOW_TIMEZONE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_UPDATED_DATE: "True"
+
+          # その他カスタム
           SHOW_SHORT_INFO: "True"
           SHORT_INFO: "42Tokyo / C Developer / Minishell building"
+          COMMIT_BY_ME: "True"
           LOCALE: "ja"
