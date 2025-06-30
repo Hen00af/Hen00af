@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST (UTC+5:30) → 日本時間では午前3:30
+    # 毎日午前3:30 JST（UTC 18:30）
     - cron: '30 18 * * *'
   workflow_dispatch:
 
@@ -21,3 +21,10 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_SHORT_INFO: "True"
+          SHORT_INFO: "42Tokyo / C Developer / Minishell building"
+          LOCALE: "ja"
