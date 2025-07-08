@@ -29,15 +29,13 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 ## ⌛ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2010%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-882.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-890.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 3.4 kB Used in GitHub's Storage 
- > 
-> 🏆 226 Contributions in the Year 2025
+> 📦 3.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,12 +43,42 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+🌆 Daytime                674 commits         ██████████░░░░░░░░░░░░░░░   38.06 % 
+🌃 Evening                813 commits         ███████████░░░░░░░░░░░░░░   45.91 % 
+🌙 Night                  64 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+C                        18 hrs 11 mins      ██████████████████████░░░   87.69 % 
+Python                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Makefile                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+C++                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+
+🔥 Editors: 
+VS Code                  20 hrs 44 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    12 hrs 33 mins      ███████████████░░░░░░░░░░   60.53 % 
+WSL                      8 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.47 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2025 18:53:00 UTC
+ Last Updated on 08/07/2025 18:53:32 UTC
 <!--END_SECTION:waka-->
 
 ---
