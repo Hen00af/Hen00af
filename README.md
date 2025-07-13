@@ -29,15 +29,13 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 ## ⌛ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-933.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.8 kB Used in GitHub's Storage 
- > 
-> 🏆 248 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,18 +59,18 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C                        17 hrs 51 mins      ██████████████████████░░░   87.58 % 
-Other                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Makefile                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-C++                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+C                        15 hrs 7 mins       ██████████████████████░░░   87.48 % 
+Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Makefile                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+C++                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 2 mins       ████████████████░░░░░░░░░   63.95 % 
-WSL                      7 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.05 % 
+Linux                    10 hrs 18 mins      ███████████████░░░░░░░░░░   59.61 % 
+WSL                      6 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   40.39 % 
 ```
 
 **Timeline**
@@ -80,7 +78,7 @@ WSL                      7 hrs 21 mins       █████████░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2025 18:50:17 UTC
+ Last Updated on 13/07/2025 18:50:19 UTC
 <!--END_SECTION:waka-->
 
 ---
