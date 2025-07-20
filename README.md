@@ -31,7 +31,7 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2037%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-943.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-943.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,10 +46,10 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-🌆 Daytime                850 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
-🌃 Evening                1045 commits        ████████████░░░░░░░░░░░░░   46.84 % 
-🌙 Night                  80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+🌞 Morning                260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+🌆 Daytime                851 commits         ██████████░░░░░░░░░░░░░░░   38.06 % 
+🌃 Evening                1045 commits        ████████████░░░░░░░░░░░░░   46.74 % 
+🌙 Night                  80 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
 
 
@@ -59,13 +59,17 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C                        1 hr 37 mins        █████████████████████████   100.00 % 
+C                        2 hrs               ████████████████████░░░░░   79.83 % 
+Makefile                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      1 hr 37 mins        █████████████████████████   100.00 % 
+WSL                      2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -73,7 +77,7 @@ WSL                      1 hr 37 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2025 18:51:42 UTC
+ Last Updated on 20/07/2025 18:51:48 UTC
 <!--END_SECTION:waka-->
 
 ---
