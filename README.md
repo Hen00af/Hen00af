@@ -29,15 +29,13 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 ## ⌛ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 4.5 kB Used in GitHub's Storage 
- > 
-> 🏆 323 Contributions in the Year 2025
+> 📦 4.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,10 +46,10 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-🌆 Daytime                1434 commits        █████████░░░░░░░░░░░░░░░░   37.92 % 
-🌃 Evening                1741 commits        ████████████░░░░░░░░░░░░░   46.03 % 
-🌙 Night                  153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+🌞 Morning                478 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+🌆 Daytime                1520 commits        ██████████░░░░░░░░░░░░░░░   38.02 % 
+🌃 Evening                1837 commits        ███████████░░░░░░░░░░░░░░   45.95 % 
+🌙 Night                  163 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
 
@@ -80,7 +78,7 @@ WSL                      1 hr 14 mins        █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2025 18:57:36 UTC
+ Last Updated on 29/07/2025 18:58:46 UTC
 <!--END_SECTION:waka-->
 
 ---
