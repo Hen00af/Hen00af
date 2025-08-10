@@ -29,7 +29,7 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 ## ⌛ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -59,17 +59,17 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C                        23 hrs 27 mins      █████████████████████░░░░   82.02 % 
-C++                      3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Makefile                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+C                        21 hrs 3 mins       ██████████████████░░░░░░░   72.69 % 
+C++                      5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Makefile                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    28 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -77,7 +77,7 @@ Linux                    28 hrs 35 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2025 18:52:53 UTC
+ Last Updated on 10/08/2025 18:51:23 UTC
 <!--END_SECTION:waka-->
 
 ---
