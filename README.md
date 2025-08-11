@@ -29,7 +29,7 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 ## ⌛ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -59,17 +59,18 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C                        21 hrs 3 mins       ██████████████████░░░░░░░   72.69 % 
-C++                      5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Makefile                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+C                        11 hrs 42 mins      ███████████████░░░░░░░░░░   61.80 % 
+C++                      5 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Makefile                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    28 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 55 mins      █████████████████████████   99.99 % 
+WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **Timeline**
@@ -77,7 +78,7 @@ Linux                    28 hrs 58 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2025 18:51:23 UTC
+ Last Updated on 11/08/2025 18:56:54 UTC
 <!--END_SECTION:waka-->
 
 ---
