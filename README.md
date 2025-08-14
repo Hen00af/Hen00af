@@ -35,20 +35,50 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 
 **🐱 My GitHub Data** 
 
-> 📦 5.7 kB Used in GitHub's Storage 
+> 📦 5.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                709 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+🌆 Daytime                2364 commits        ██████████░░░░░░░░░░░░░░░   39.02 % 
+🌃 Evening                2718 commits        ███████████░░░░░░░░░░░░░░   44.86 % 
+🌙 Night                  268 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+C                        6 hrs 19 mins       ██████████████░░░░░░░░░░░   56.67 % 
+C++                      3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.39 % 
+Makefile                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 10 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    11 hrs 10 mins      █████████████████████████   99.98 % 
+WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2025 18:54:05 UTC
+ Last Updated on 14/08/2025 18:55:51 UTC
 <!--END_SECTION:waka-->
 
 ---
