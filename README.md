@@ -35,7 +35,7 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 
 **🐱 My GitHub Data** 
 
-> 📦 68.1 kB Used in GitHub's Storage 
+> 📦 68.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,7 +73,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 18:51:57 UTC
+ Last Updated on 20/08/2025 18:52:52 UTC
 <!--END_SECTION:waka-->
 
 ---
