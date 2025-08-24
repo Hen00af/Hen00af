@@ -37,8 +37,6 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 
 > 📦 69.2 kB Used in GitHub's Storage 
  > 
-> 🏆 379 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -48,9 +46,9 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                710 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-🌆 Daytime                2364 commits        ██████████░░░░░░░░░░░░░░░   39.01 % 
-🌃 Evening                2718 commits        ███████████░░░░░░░░░░░░░░   44.85 % 
+🌞 Morning                710 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+🌆 Daytime                2367 commits        ██████████░░░░░░░░░░░░░░░   39.04 % 
+🌃 Evening                2718 commits        ███████████░░░░░░░░░░░░░░   44.83 % 
 🌙 Night                  268 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 
@@ -61,13 +59,15 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        20 mins             █████████████░░░░░░░░░░░░   53.40 % 
+C++                      14 mins             ██████████░░░░░░░░░░░░░░░   38.26 % 
+Makefile                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    37 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -75,7 +75,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2025 18:47:45 UTC
+ Last Updated on 24/08/2025 18:49:24 UTC
 <!--END_SECTION:waka-->
 
 ---
