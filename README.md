@@ -12,9 +12,8 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- 🔧 **C / System Programming** (Minishell, malloc, signals, execve, etc.)
-- 🐧 **Linux Tools** (gdb, valgrind, make, lldb)
-- 📦 **Containerization** (Docker, K8s（勉強中）)
+- 🔧 **C / System Programming** (fork, malloc, signals, execve, etc.)
+- 🐧 **Linux Tools** (gdb, valgrind, make)
 - ⚙️ **DevOps** (CI/CD, Makefiles, Git workflow)
 
 ---
