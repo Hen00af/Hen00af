@@ -36,13 +36,11 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 
 > 📦 72.4 kB Used in GitHub's Storage 
  > 
-> 🏆 383 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 22 Public Repositories 
  > 
-> 🔑 16 Private Repositories 
+> 🔑 17 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -76,7 +74,7 @@ Linux                    37 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2025 18:52:18 UTC
+ Last Updated on 26/08/2025 18:50:56 UTC
 <!--END_SECTION:waka-->
 
 ---
