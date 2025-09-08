@@ -24,7 +24,7 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 
 - [Minishell](https://github.com/Hen00af/minishell) – Recreated a simplified bash shell in C with pipe, redirect, and built-in command support
 - [Push_swap](https://github.com/Hen00af/push_swap) – Sorting algorithm challenge using stacks
-
+- [AVR Automatic Watering Flower](https://github.com/Hen00af/AVR-aoutmatical-watering-flower) – AVR microcontroller project for an automated flower watering system
 ---
 
 ## ⌛ WakaTime Coding Stats
