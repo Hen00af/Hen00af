@@ -18,6 +18,8 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 
 ---
 
+## [about my school(https://github.com/Hen00af/42Cursus_Common_Core_Curriculum)
+
 ## 🚀 Notable Projects
 
 - [Minishell](https://github.com/Hen00af/minishell) – Recreated a simplified bash shell in C with pipe, redirect, and built-in command support
