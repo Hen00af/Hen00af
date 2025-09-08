@@ -18,7 +18,7 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 
 ---
 
-## [about my school(https://github.com/Hen00af/42Cursus_Common_Core_Curriculum)
+## [about my school](https://github.com/Hen00af/42Cursus_Common_Core_Curriculum)
 
 ## 🚀 Notable Projects
 
