@@ -30,7 +30,7 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 ## ⌛ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -38,18 +38,20 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 
 > 📦 107.7 kB Used in GitHub's Storage 
  > 
+> 🏆 477 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 27 Public Repositories 
  > 
-> 🔑 21 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                762 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-🌆 Daytime                2721 commits        ██████████░░░░░░░░░░░░░░░   41.62 % 
-🌃 Evening                2741 commits        ██████████░░░░░░░░░░░░░░░   41.92 % 
+🌆 Daytime                2723 commits        ██████████░░░░░░░░░░░░░░░   41.64 % 
+🌃 Evening                2741 commits        ██████████░░░░░░░░░░░░░░░   41.91 % 
 🌙 Night                  314 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 ```
 
@@ -60,18 +62,17 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-C                        5 hrs 27 mins       ████████████░░░░░░░░░░░░░   47.02 % 
-Ruby                     2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Markdown                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-ERB                      1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+C                        5 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.56 % 
+Markdown                 2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Python                   2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+C++                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Makefile                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 36 mins       ████████████████░░░░░░░░░   65.49 % 
-WSL                      4 hrs               █████████░░░░░░░░░░░░░░░░   34.51 % 
+Linux                    11 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -79,7 +80,7 @@ WSL                      4 hrs               █████████░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2025 18:48:12 UTC
+ Last Updated on 12/09/2025 18:47:06 UTC
 <!--END_SECTION:waka-->
 
 ---
