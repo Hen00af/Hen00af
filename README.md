@@ -30,13 +30,15 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 ## ⌛ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2030%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 107.8 kB Used in GitHub's Storage 
+> 📦 107.9 kB Used in GitHub's Storage 
  > 
-> 🏆 500 Contributions in the Year 2025
+> 🏆 504 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,12 +46,42 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                775 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+🌆 Daytime                2748 commits        ██████████░░░░░░░░░░░░░░░   41.47 % 
+🌃 Evening                2783 commits        ██████████░░░░░░░░░░░░░░░   42.00 % 
+🌙 Night                  320 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+C                        9 hrs 49 mins       █████████████░░░░░░░░░░░░   50.33 % 
+Python                   2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Makefile                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+C++                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+
+🔥 Editors: 
+VS Code                  19 hrs 30 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    18 hrs 57 mins      ████████████████████████░   97.12 % 
+WSL                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 18:51:08 UTC
+ Last Updated on 17/09/2025 18:50:26 UTC
 <!--END_SECTION:waka-->
 
 ---
