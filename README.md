@@ -30,8 +30,6 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 ## ⌛ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2047%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -46,42 +44,12 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                775 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-🌆 Daytime                2748 commits        ██████████░░░░░░░░░░░░░░░   41.46 % 
-🌃 Evening                2785 commits        ███████████░░░░░░░░░░░░░░   42.02 % 
-🌙 Night                  320 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-C                        9 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.03 % 
-Python                   2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Makefile                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-C++                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 21 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    17 hrs 54 mins      ██████████████████████░░░   88.00 % 
-WSL                      2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 18:49:53 UTC
+ Last Updated on 20/09/2025 18:45:40 UTC
 <!--END_SECTION:waka-->
 
 ---
