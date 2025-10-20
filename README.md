@@ -15,11 +15,10 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 - 🔧 **C / System Programming** (fork, malloc, signals, execve, etc.)
 - 🐧 **Linux Tools** (gdb, valgrind, make)
 - ⚙️ **DevOps** (CI/CD, Makefiles, Git workflow)
-
 ---
-
-## [My 42 Curriculum](https://github.com/Hen00af/42Cursus_Common_Core_Curriculum)
-
+If you want to learn more about my school, **42**,  
+### click ➡ [42 Curriculum](https://github.com/Hen00af/42Cursus_Common_Core_Curriculum)
+---
 ## 🚀 Notable Projects
 
 - [Minishell](https://github.com/Hen00af/minishell) – Recreated a simplified bash shell in C with pipe, redirect, and built-in command support
