@@ -8,7 +8,7 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 ## 🛠 Skills & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![CPP](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
