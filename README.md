@@ -26,6 +26,8 @@ From building my own shell (yes, like bash) to experimenting with Git internals 
 - 🔧 **C / System Programming** (fork, malloc, signals, execve, etc.)
 - 🐧 **Linux Tools** (gdb, valgrind, make)
 - ⚙️ **DevOps** (CI/CD, Makefiles, Git workflow)
+- 🧱 **Web Development** (Ruby on Rails, TypeScript, Docker)
+- 📊 **Data Science Tools** (pandas, Matplotlib)
 ---
 If you want to learn more about my school, **42**,  
 ### click ➡ [42 Curriculum](https://github.com/Hen00af/42Cursus_Common_Core_Curriculum)
