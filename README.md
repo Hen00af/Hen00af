@@ -108,5 +108,4 @@ WSL                      1 hr 54 mins        ████░░░░░░░�
 
 ## 📫 Get in Touch
 
-- 🐦 Twitter: [@Hen00af](https://twitter.com/Hen00af)
-- 📮 Mail: hattori.seiya.official@gmail.com
+- 📮 Mail: hunny.w.1123@gmail.com
