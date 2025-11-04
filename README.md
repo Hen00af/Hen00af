@@ -109,3 +109,4 @@ WSL                      1 hr 54 mins        ████░░░░░░░�
 ## 📫 Get in Touch
 
 - 📮 Mail: hunny.w.1123@gmail.com
+- 📘 Check out my tech posts on [Qiita →](https://qiita.com/Hen00af)
