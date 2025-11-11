@@ -34,9 +34,9 @@ If you would like to learn more about my school, **42**,
 ---
 ## 🚀 Notable Projects
 
-- [Minishell](https://github.com/Hen00af/minishell) – Recreated a simplified bash shell in C with pipe, redirect, and built-in command support
-- [Push_swap](https://github.com/Hen00af/push_swap) – Sorting algorithm challenge using stacks
-- [AVR Automatic Watering Flower](https://github.com/Hen00af/AVR-aoutmatical-watering-flower) – AVR microcontroller project for an automated flower watering system
+- [Minishell](https://github.com/Hen00af/minishell) – Recreated a simplified bash shell in C with pipe, redirect, and built-in command support with 2 members
+- [AI shiritori](https://github.com/Hen00af/Ai-shiritori) - Shiritori Game with Gemini API in Ruby on rails with 5 members.
+- [Cub3D](https://github.com/Hen00af/Cub3D) - 3D graphic game in C, like Doom, with ray-casting and DDA-Algo.
 ---
 
 ## ⌛ WakaTime Coding Stats
