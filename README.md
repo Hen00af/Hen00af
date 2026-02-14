@@ -43,7 +43,7 @@ currently_building:
 <br/>
 
 <a href="https://github.com/Hen00af/42Cursus_Common_Core_Curriculum">
-  <img src="https://img.shields.io/badge/🎓_Learn_more_about_42-1A1B27?style=for-the-badge" alt="42 Curriculum" />
+  <img src="https://img.shields.io/badge/🎓_Learn_more_about_42-00BABC?style=for-the-badge&logoColor=white" alt="42 Curriculum" />
 </a>
 
 ---
