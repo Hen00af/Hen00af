@@ -42,6 +42,8 @@ If you would like to learn more about my school, **42**,
 ## ⌛ WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2013%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.31%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -92,7 +94,7 @@ Linux                    1 min               ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hen00af/Hen00af/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2026 05:57:20 UTC
+ Last Updated on 14/02/2026 06:05:39 UTC
 <!--END_SECTION:waka-->
 
 ---
