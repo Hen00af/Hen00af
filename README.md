@@ -42,6 +42,10 @@ currently_building:
 
 <br/>
 
+<a href="https://github.com/Hen00af/42Cursus_Common_Core_Curriculum">
+  <img src="https://img.shields.io/badge/🎓_Learn_more_about_42-1A1B27?style=for-the-badge" alt="42 Curriculum" />
+</a>
+
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> &nbsp;Tech Stack
@@ -83,7 +87,7 @@ currently_building:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hen00af&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Hen00af&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -95,21 +99,21 @@ currently_building:
 <div align="center">
 
 <a href="https://github.com/Hen00af/minishell">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hen00af&repo=minishell&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hen00af&repo=minishell&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 &nbsp;
 <a href="https://github.com/Hen00af/Cub3D">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hen00af&repo=Cub3D&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hen00af&repo=Cub3D&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Hen00af/Ai-shiritori">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hen00af&repo=Ai-shiritori&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hen00af&repo=Ai-shiritori&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 &nbsp;
 <a href="https://github.com/Hen00af/42Cursus_Common_Core_Curriculum">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hen00af&repo=42Cursus_Common_Core_Curriculum&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hen00af&repo=42Cursus_Common_Core_Curriculum&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
 </div>
@@ -122,12 +126,12 @@ currently_building:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hen00af&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hen00af&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Hen00af&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hen00af&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=10" alt="Top Languages" />
+<img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hen00af&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=10" alt="Top Languages" />
 
 </div>
 
