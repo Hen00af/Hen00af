@@ -37,7 +37,7 @@ currently_building:
   - AI-powered web apps
 ```
 
-> *From implementing `malloc` to experimenting with Git internals —
+
 > I love understanding how things work at the lowest level.*
 
 <br/>
