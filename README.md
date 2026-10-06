@@ -58,25 +58,6 @@ currently_building:
 
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Hen00af/minishell">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hen00af&repo=minishell&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/Hen00af/Cub3D">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hen00af&repo=Cub3D&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/Hen00af/Ai-shiritori">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hen00af&repo=Ai-shiritori&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/Hen00af/42Cursus_Common_Core_Curriculum">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hen00af&repo=42Cursus_Common_Core_Curriculum&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
