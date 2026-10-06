@@ -13,9 +13,8 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Seiya Hattori (服部 聖也)
+name: Hen00af
 location: Tokyo, Japan
-education: 42Tokyo
 focus:
   - Systems Programming (C / C++)
   - Backend Development
